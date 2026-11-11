@@ -15,4 +15,4 @@ function hienThiGoiSpa() {
   }
 }
 
-hienThiGoiDichVu();
+hienThiGoiSpa();

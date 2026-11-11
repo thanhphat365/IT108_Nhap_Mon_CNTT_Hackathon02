@@ -1,9 +1,9 @@
 # BÀI LÀM – HACKATHON 02
 
 - **Mã đề:** 07
-- **Họ tên:** : 
-- **Lớp:** :
-- **Link repository:**
+- **Họ tên:** : Nguyen Thanh Phat
+- **Lớp:** K26-CNTT2
+- **Link repository:**https://github.com/thanhphat365/IT108_Nhap_Mon_CNTT_Hackathon02
 - **Hệ điều hành (Windows/macOS):** Windowns
 
 ## 4.2. Thao tác máy tính cơ bản bằng CLI
@@ -260,14 +260,15 @@ Write-Host "Hoan thanh!"
 
 | STT | Tab DevTools phát hiện lỗi | Tên file hoặc thông báo lỗi | Cách khắc phục |
 | --- | --- | --- | --- |
-| 1 |  |  |  |
-| 2 |  |  |  |
+| 1 | failed to load  resource| index.html | doi ten trong dong |
+| 2 |hienThiGoiDichVU IS NOT DEFINED  |app.js  |doi ten : hienThiGoiSpa |
 
 > Ảnh chụp màn hình lưu trong thư mục `evidence/` (network.png, console.png).
+![alt text](image.png)
 
 ### Báo cáo lỗi gửi trưởng nhóm
 
-- **Context:** 
+- **Context:** Thua nhom truong phat hien bao loi
 - **Expected:** 
 - **Actual:** 
 - **Log:** 
@@ -275,7 +276,7 @@ Write-Host "Hoan thanh!"
 ### Câu tìm kiếm Google
 
 ```text
-(Ghi câu tìm kiếm vào đây – xoá dòng này)
+
 
 ```
 
