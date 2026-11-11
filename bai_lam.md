@@ -276,8 +276,11 @@ Write-Host "Hoan thanh!"
 ### Câu tìm kiếm Google
 
 ```text
+style:stackoverflow.com
+"app.js:18 Uncaught ReferenceError: hienThiGoiDichVu is not defined"
 
-
+-quang cao
+-crack
 ```
 
 ## 4.7. Excel
